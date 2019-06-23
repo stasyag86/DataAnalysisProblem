@@ -17,7 +17,7 @@ public class App {
 	private static final String hp_torpedo_file_path = "C:\\Users\\Stas\\Desktop\\ServiceNow\\HPTorpedo.snw";
 
 	public static void main(String[] args) {
-		List<ShapeMatchProbability> startProgram = startProgram();
+		List<ShapeMatchProbability> results = startProgram();
 	}
 	
 	public static List<ShapeMatchProbability> startProgram(){
